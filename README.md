@@ -4,7 +4,7 @@ FaceRecognitionDemo
 use coreImage to face recognition
 
 
-Who is owner
+Owner
 ===================
 
 if you want to contact me , please send email to me ,the adress is follwing down
